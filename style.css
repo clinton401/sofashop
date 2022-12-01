@@ -132,12 +132,14 @@
 .mckenzie {
     /* height: 200px; */
     position: absolute;
-    background-color: black;
+    /* background-color: black; */
+    background-color: white;
+    color: #91949A;
     top: 450px;
     left: 200px;
     box-shadow: 5px 10px 8px rgba(0, 0, 0, 0.153573);
     /* width: 25%; */
-    padding: 30px 20px;
+    padding: 30px 30px 30px 20px;
     border-left: 7px solid #FDBF44;
     /* border: 3px solid black; */
 }
@@ -146,6 +148,7 @@
 }
 .mckenzie h2 {
     padding-bottom: 20px;
+    color: black;
 }
 .mckenzie p {
     font-size: 10px;
