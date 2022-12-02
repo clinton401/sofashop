@@ -1,0 +1,18 @@
+@media only screen and (max-width: 850px) {
+   body .mobile-view {
+    display: flex;
+    margin-top: 30%;
+    color: black;
+   }
+   .mobile-view h1 {
+    font-size: 60px;
+    color: white;
+   }
+   body .first-div {
+    display: none;
+   }
+   body {
+
+    background-color: black;
+   }
+}

@@ -153,6 +153,18 @@
 .mckenzie p {
     font-size: 10px;
 }
+.button {
+    width: 100%;
+    padding-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.button button {
+    background-color: #000A1E;
+    padding: 7px 13px;
+    font-size: 10px;
+}
 .position {
     /* border: 3px solid black; */
     /* padding: 20px; */
@@ -168,4 +180,13 @@
 
     color: black;
     font-size: 30px;
+}
+.mobile-view {
+    width: 75%;
+    /* border: 3px solid white; */
+    margin: 0 auto;
+    display: none;
+}
+.mobile-view h1 {
+    text-align: center;
 }
